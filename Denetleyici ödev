@@ -1,0 +1,4 @@
+short xyz = 34452;
+int xyz=5.2; 
+float xyz = 12345.12345;
+Bu atamalar geçersizdir.Çünkü short ve float'a girilebileceğinden büyük, int'e ise küsüratlı değer girilmiş olduğundan bu atamalar geçersizdir.
