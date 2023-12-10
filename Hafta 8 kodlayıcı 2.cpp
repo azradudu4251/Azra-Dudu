@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-void TOPLAM(int sayi1,int sayi2)
+void iki_ekle(int sayi1,int sayi2)
 {
     for(int a=0; a<sayi2; a++)
     {
@@ -10,5 +10,5 @@ void TOPLAM(int sayi1,int sayi2)
 }
 int main()
 {
-    TOPLAM(7,11);
+    iki_ekle(7,11);
 }
